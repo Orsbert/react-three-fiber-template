@@ -43,7 +43,6 @@ export function MainCanvas() {
       console.error('Something unexpected happened.');
     }}
   >
-    <Environment preset='city'/>
     <StageRenderer />
   </Canvas>;
 }
