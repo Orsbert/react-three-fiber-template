@@ -1,6 +1,32 @@
+# WebGL Project Template using React Three Fiber
+
+Welcome to the WebGL project template utilizing React Three Fiber! This template is designed to provide a starting point for your WebGL projects, incorporating essential features such as scene setup, HTML overlay, state management with Zustand, debug controls with Leva, and built using the Next.js framework.
+
+You can find a demo of this template [here.](https://orsbert.github.io/react-three-fiber-template/)
+
+## Getting Started:
+
+To use this template, follow the steps [here.](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+## Features:
+
+- **React Three Fiber**: Utilizes the power of React Three Fiber for creating WebGL scenes with React components.
+- **Next.js Framework**: Built on top of Next.js, providing server-side rendering, routing, and other powerful features.
+- **Zustand**: State management library for React, offering a simple and efficient way to manage application state.
+- **Leva**: Debugging UI for tweaking variables in real-time, enabling smooth development and debugging experience.
+
+# Additional Notes:
+- Scene Setup: The scene setup is located in the Scene.js file. You can modify this file to adjust the initial setup of your WebGL scene.
+- HTML Overlay: The HTML overlay is provided in the Overlay.js file. This allows you to overlay HTML content on top of your WebGL scene.
+- Zustand: State management using Zustand is implemented in the store.js file. You can define and manage your application state here.
+- Leva: Leva debug controls are integrated into the project. You can use Leva to tweak variables and settings in real-time for easier debugging and development.
+
+Feel free to customize and extend this template according to your project requirements. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request. Happy coding!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Development
 
 First, run the development server:
 
